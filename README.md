@@ -1,4 +1,4 @@
-# Lableup CNTK(Microsoft Cognitive Toolkit) service
+# Lablup CNTK(Microsoft Cognitive Toolkit) service
 Integrate with Microsoft Deep Learning toolkit [Microsoft Cognitive Toolkit - CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/) into Lablup backend.ai
 
 ## Introduction
